@@ -1,0 +1,106 @@
+#design{
+    border: 2px;
+    background-color: lightblue;
+    
+}
+.design2{
+    border: 2px;
+    background-color:plum;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.design3{
+    
+    border: 2px;
+    background-color:lightpink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+}
+.design4{
+
+    border: 2px;
+    background-color:rgb(163, 231, 148);
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+}
+
+.design5{
+
+    border: 2px;
+    background-color:lightcoral;
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+}
+.design6{
+
+    border: 2px;
+    background-color:lightgoldenrodyellow;
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+}
+.design7{
+
+    border: 2px;
+    background-color:lightslategray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+}
+
+h1{
+    text-align: center;
+}
+img{
+    height: 200px;
+}
+p{
+    text-align: center;
+
+}
+
+h3{
+    text-align: left;
+    font-size: 15px;
+}
+h2{
+    text-align:center;
+    
+    
+}
+input{
+    background-color: brown;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    cursor: pointer;
+    
+}
+ button{
+    background-color:palevioletred;
+    color:black;
+    padding: 2px;
+    cursor: pointer;
+
+    
+}
+footer{
+    color: white;
+}
+nav{
+    background-color: bisque;
+    padding: 10px;
+    text-align: right;
+}
+a{
+text-decoration: none;
+}
+.logo{
+    width: 50px;
+    height: auto;
+}
